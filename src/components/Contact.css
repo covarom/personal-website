@@ -1,0 +1,52 @@
+.contact-section{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.title-contact{
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: .5rem;
+}
+
+.sub-title{
+    font-size: 22px;
+    font-style: italic;
+    opacity: .8;
+    margin-bottom: 2rem;
+}
+
+.infor-contact{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-item{
+    display: flex;
+}
+.contact-item i{
+    margin: .4rem 1rem 0 0;
+    font-size: 32px;
+}
+
+.link-infor{
+    font-size: 30px;   
+}
+.link-infor a{
+    margin: 0 1rem 0 1rem;
+}
+
+.copy-right{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.copy-right .name{
+    font-size: 28px;
+    font-weight: 500;
+    font-style: bold;
+}

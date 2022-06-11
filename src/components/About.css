@@ -1,0 +1,59 @@
+.about__section{
+    color: black;
+    margin-top: 100vh;
+    padding-top: 7rem;
+    padding-bottom: 3rem;
+    box-sizing: border-box;
+}
+
+.about__title{
+    text-align: center;
+}
+
+.about__title .title{
+    color: #57c24a;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.about__title .intro{
+    color: black;
+    opacity: .8;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.about__descr{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+
+.about__descr .image__about img{
+    width: 20rem;
+    height: 19rem;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.descr__welcome{
+    width: 24rem;
+}
+
+.welcome__web{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.personal__descr{
+    font-weight: 400;
+    font-size: 18px;
+    font-style: italic;
+}
+
+
+.welcome__web,
+.personal__descr {
+    color: black;
+}

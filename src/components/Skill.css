@@ -1,0 +1,37 @@
+.skill-section{
+    margin-top: 10px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+    padding-bottom: 1.2rem;
+}
+
+.language{
+    text-align: center;
+}
+.language-title,.framework-title,.tool-title,.lib-title{
+    font-size: 32px;
+    font-weight: 550;
+    margin-bottom: 3rem;
+}
+
+.framework-descr img{
+    width: 35px;
+    height: 35px;
+}
+
+.language-descr,.framework-descr,.tool-descr{
+    font-size: 20px;
+}
+
+.language-item,.framework-item,.tool-item{
+    display: flex;
+    width: 50px;
+    padding-bottom: 10px;
+}
+
+.icon__language,.icon__framewor{
+    width: 100px;
+    height: 100px;
+}
